@@ -1,4 +1,4 @@
-# jobs2
+# jobs
 
 ## Project setup
 ```
